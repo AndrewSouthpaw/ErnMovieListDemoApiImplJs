@@ -1,1 +1,1 @@
-import './js/WalmartItemApiImpl'
+import './js/MoviesApiImpl'
