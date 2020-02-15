@@ -1,0 +1,26 @@
+{
+  "name": "ern-movie-list-demo-js-api-implementation-for-class",
+  "version": "0.0.1",
+  "author": "Andrew Smith <andrewsmith@alumni.stanford.edu>",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "react-native": "0.60.5"
+  },
+  "dependencies": {
+    "ern-movie-list-demo-api": "1.0.0"
+  },
+  "ern": {
+    "containerGen": {
+      "hasConfig": false,
+      "moduleName": "ErnMovieListDemoApiImplJs",
+      "apiNames": [
+        "WalmartItem"
+      ]
+    },
+    "moduleType": "ern-js-api-impl"
+  },
+  "keywords": [
+    "ern-js-api-impl"
+  ]
+}
